@@ -1,0 +1,7 @@
+# Logs
+/[Ll]ogs/
+/[Pp]ost/Examples/
+
+passwords.txt
+
+*.log
