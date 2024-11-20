@@ -1,1 +1,1 @@
-int speed = 5;
+int speed = 100;
